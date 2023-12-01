@@ -55,7 +55,7 @@ import { MockDataModule } from './mock/mock-data.module';
 
 const socialLinks = [
   {
-    url: 'https://github.com/akveo/nebular',
+    url: 'https://github.com/samuelajalode',
     target: '_blank',
     icon: 'github',
   },
